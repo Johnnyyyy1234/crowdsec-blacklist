@@ -5,7 +5,7 @@
 \b80legs\b
 \bADmantX\b
 \bAIBOT\b
-\bALittle\b
+\bALittle\ Client\b
 \bASPSeek\b
 \bAbonti\b
 \bAboundex\b
@@ -58,3 +58,580 @@
 \bBotALot\b
 \bBrandprotect\b
 \bBrandwatch\b
+\bBuck\b
+\bBuddy\b
+\bBuiltBotTough\b
+\bBuiltWith\b
+\bBullseye\b
+\bBunnySlippers\b
+\bBuzzSumo\b
+\bCATExplorador\b
+\bCCBot\b
+\bCODE87\b
+\bCSHttp\b
+\bCalculon\b
+\bCazoodleBot\b
+\bCegbfeieh\b
+\bCensysInspect\b
+\bCheTeam\b
+\bCheeseBot\b
+\bCherryPicker\b
+\bChinaClaw\b
+\bChlooe\b
+\bCitoid\b
+\bClaritybot\b
+\bCliqzbot\b
+\bCloud\ mapping\b
+\bCocolyzebot\b
+\bCogentbot\b
+\bCollector\b
+\bCopier\b
+\bCopyRightCheck\b
+\bCopyscape\b
+\bCosmos\b
+\bCraftbot\b
+\bCrawling\ at\ Home\ Project\b
+\bCrazyWebCrawler\b
+\bCrescent\b
+\bCrunchBot\b
+\bCurious\b
+\bCusto\b
+\bCyotekWebCopy\b
+\bDBLBot\b
+\bDIIbot\b
+\bDSearch\b
+\bDTS\ Agent\b
+\bDataCha0s\b
+\bDatabaseDriverMysqli\b
+\bDemon\b
+\bDeusu\b
+\bDevil\b
+\bDigincore\b
+\bDigitalPebble\b
+\bDirbuster\b
+\bDisco\b
+\bDiscobot\b
+\bDiscoverybot\b
+\bDispatch\b
+\bDittoSpyder\b
+\bDnBCrawler-Analytics\b
+\bDnyzBot\b
+\bDomCopBot\b
+\bDomainAppender\b
+\bDomainCrawler\b
+\bDomainSigmaCrawler\b
+\bDomainStatsBot\b
+\bDomains\ Project\b
+\bDotbot\b
+\bDownload\ Wonder\b
+\bDragonfly\b
+\bDrip\b
+\bECCP/1.0\b
+\bEMail\ Siphon\b
+\bEMail\ Wolf\b
+\bEasyDL\b
+\bEbingbong\b
+\bEcxi\b
+\bEirGrabber\b
+\bEroCrawler\b
+\bEvil\b
+\bExabot\b
+\bExpress\ WebPictures\b
+\bExtLinksBot\b
+\bExtractor\b
+\bExtractorPro\b
+\bExtreme\ Picture\ Finder\b
+\bEyeNetIE\b
+\bEzooms\b
+\bFDM\b
+\bFHscan\b
+\bFemtosearchBot\b
+\bFimap\b
+\bFirefox/7.0\b
+\bFlashGet\b
+\bFlunky\b
+\bFoobot\b
+\bFreeuploader\b
+\bFrontPage\b
+\bFuzz\b
+\bFyberSpider\b
+\bFyrebot\b
+\bG-i-g-a-b-o-t\b
+\bGT::WWW\b
+\bGalaxyBot\b
+\bGenieo\b
+\bGermCrawler\b
+\bGetRight\b
+\bGetWeb\b
+\bGetintent\b
+\bGigabot\b
+\bGo!Zilla\b
+\bGo-Ahead-Got-It\b
+\bGoZilla\b
+\bGotit\b
+\bGrabNet\b
+\bGrabber\b
+\bGrafula\b
+\bGrapeFX\b
+\bGrapeshotCrawler\b
+\bGridBot\b
+\bHEADMasterSEO\b
+\bHMView\b
+\bHTMLparser\b
+\bHTTP::Lite\b
+\bHTTrack\b
+\bHaansoft\b
+\bHaosouSpider\b
+\bHarvest\b
+\bHavij\b
+\bHeritrix\b
+\bHloader\b
+\bHonoluluBot\b
+\bHumanlinks\b
+\bHybridBot\b
+\bIDBTE4M\b
+\bIDBot\b
+\bIRLbot\b
+\bIblog\b
+\bId-search\b
+\bIlseBot\b
+\bImage\ Fetch\b
+\bImage\ Sucker\b
+\bIndeedBot\b
+\bIndy\ Library\b
+\bInfoNaviRobot\b
+\bInfoTekies\b
+\bIntelliseek\b
+\bInterGET\b
+\bInternetSeer\b
+\bInternet\ Ninja\b
+\bIria\b
+\bIskanie\b
+\bIstellaBot\b
+\bJOC\ Web\ Spider\b
+\bJamesBOT\b
+\bJbrofuzz\b
+\bJennyBot\b
+\bJetCar\b
+\bJetty\b
+\bJikeSpider\b
+\bJoomla\b
+\bJorgee\b
+\bJustView\b
+\bJyxobot\b
+\bKenjin\ Spider\b
+\bKeybot\ Translation-Search-Machine\b
+\bKeyword\ Density\b
+\bKinza\b
+\bKozmosbot\b
+\bLNSpiderguy\b
+\bLWP::Simple\b
+\bLanshanbot\b
+\bLarbin\b
+\bLeap\b
+\bLeechFTP\b
+\bLeechGet\b
+\bLexiBot\b
+\bLftp\b
+\bLibWeb\b
+\bLibwhisker\b
+\bLieBaoFast\b
+\bLightspeedsystems\b
+\bLikse\b
+\bLinkScan\b
+\bLinkWalker\b
+\bLinkbot\b
+\bLinkextractorPro\b
+\bLinkpadBot\b
+\bLinksManager\b
+\bLinqiaMetadataDownloaderBot\b
+\bLinqiaRSSBot\b
+\bLinqiaScrapeBot\b
+\bLipperhey\b
+\bLipperhey\ Spider\b
+\bLitemage_walker\b
+\bLmspider\b
+\bLtx71\b
+\bMFC_Tear_Sample\b
+\bMIDown\ tool\b
+\bMIIxpc\b
+\bMJ12bot\b
+\bMQQBrowser\b
+\bMSFrontPage\b
+\bMSIECrawler\b
+\bMTRobot\b
+\bMag-Net\b
+\bMagnet\b
+\bMail.RU_Bot\b
+\bMajestic-SEO\b
+\bMajestic12\b
+\bMajestic\ SEO\b
+\bMarkMonitor\b
+\bMarkWatch\b
+\bMass\ Downloader\b
+\bMasscan\b
+\bMata\ Hari\b
+\bMauiBot\b
+\bMb2345Browser\b
+\bMeanPath\ Bot\b
+\bMeanpathbot\b
+\bMediatoolkitbot\b
+\bMegaIndex.ru\b
+\bMetauri\b
+\bMicroMessenger\b
+\bMicrosoft\ Data\ Access\b
+\bMicrosoft\ URL\ Control\b
+\bMinefield\b
+\bMister\ PiX\b
+\bMoblie Safari\b
+\bMojeek\b
+\bMojolicious\b
+\bMolokaiBot\b
+\bMorfeus\ Fucking\ Scanner\b
+\bMozlila\b
+\bMr.4x3\b
+\bMsrabot\b
+\bMusobot\b
+\bNICErsPRO\b
+\bNPbot\b
+\bName\ Intelligence\b
+\bNameprotect\b
+\bNavroad\b
+\bNearSite\b
+\bNeedle\b
+\bNessus\b
+\bNetAnts\b
+\bNetLyzer\b
+\bNetMechanic\b
+\bNetSpider\b
+\bNetZIP\b
+\bNet\ Vampire\b
+\bNetcraft\b
+\bNettrack\b
+\bNetvibes\b
+\bNextGenSearchBot\b
+\bNibbler\b
+\bNiki-bot\b
+\bNikto\b
+\bNimbleCrawler\b
+\bNimbostratus\b
+\bNinja\b
+\bNmap\b
+\bNot\b
+\bNuclei\b
+\bNutch\b
+\bOctopus\b
+\bOffline\ Explorer\b
+\bOffline\ Navigator\b
+\bOnCrawl\b
+\bOpenLinkProfiler\b
+\bOpenVAS\b
+\bOpenfind\b
+\bOpenvas\b
+\bOrangeBot\b
+\bOrangeSpider\b
+\bOutclicksBot\b
+\bOutfoxBot\b
+\bPECL::HTTP\b
+\bPHPCrawl\b
+\bPOE-Component-Client-HTTP\b
+\bPageAnalyzer\b
+\bPageGrabber\b
+\bPageScorer\b
+\bPageThing.com\b
+\bPage\ Analyzer\b
+\bPandalytics\b
+\bPanscient\b
+\bPapa\ Foto\b
+\bPavuk\b
+\bPeoplePal\b
+\bPetalbot\b
+\bPi-Monster\b
+\bPicscout\b
+\bPicsearch\b
+\bPictureFinder\b
+\bPiepmatz\b
+\bPimonster\b
+\bPixray\b
+\bPleaseCrawl\b
+\bPockey\b
+\bProPowerBot\b
+\bProWebWalker\b
+\bProbethenet\b
+\bPsbot\b
+\bPu_iN\b
+\bPump\b
+\bPxBroker\b
+\bPyCurl\b
+\bQueryN\ Metasearch\b
+\bQuick-Crawler\b
+\bRSSingBot\b
+\bRankActive\b
+\bRankActiveLinkBot\b
+\bRankFlex\b
+\bRankingBot\b
+\bRankingBot2\b
+\bRankivabot\b
+\bRankurBot\b
+\bRe-re\b
+\bReGet\b
+\bRealDownload\b
+\bReaper\b
+\bRebelMouse\b
+\bRecorder\b
+\bRedesScrapy\b
+\bRepoMonkey\b
+\bRipper\b
+\bRocketCrawler\b
+\bRogerbot\b
+\bSBIder\b
+\bSEOkicks\b
+\bSEOkicks-Robot\b
+\bSEOlyticsCrawler\b
+\bSEOprofiler\b
+\bSEOstats\b
+\bSISTRIX\b
+\bSMTBot\b
+\bSalesIntelligent\b
+\bScanAlert\b
+\bScanbot\b
+\bScoutJet\b
+\bScrapy\b
+\bScreaming\b
+\bScreenerBot\b
+\bScrepyBot\b
+\bSearchestate\b
+\bSearchmetricsBot\b
+\bSeekport\b
+\bSemanticJuice\b
+\bSemrush\b
+\bSemrushBot\b
+\bSentiBot\b
+\bSeoSiteCheckup\b
+\bSeobilityBot\b
+\bSeomoz\b
+\bShodan\b
+\bSiphon\b
+\bSiteCheckerBotCrawler\b
+\bSiteExplorer\b
+\bSiteLockSpider\b
+\bSiteSnagger\b
+\bSiteSucker\b
+\bSite\ Sucker\b
+\bSitebeam\b
+\bSiteimprove\b
+\bSitevigil\b
+\bSlySearch\b
+\bSmartDownload\b
+\bSnake\b
+\bSnapbot\b
+\bSnoopy\b
+\bSocialRankIOBot\b
+\bSociscraper\b
+\bSogou\ web\ spider\b
+\bSosospider\b
+\bSottopop\b
+\bSpaceBison\b
+\bSpammen\b
+\bSpankBot\b
+\bSpanner\b
+\bSpbot\b
+\bSpinn3r\b
+\bSputnikBot\b
+\bSqlmap\b
+\bSqlworm\b
+\bSqworm\b
+\bSteeler\b
+\bStripper\b
+\bSucker\b
+\bSucuri\b
+\bSuperBot\b
+\bSuperHTTP\b
+\bSurfbot\b
+\bSurveyBot\b
+\bSuzuran\b
+\bSwiftbot\b
+\bSzukacz\b
+\bT0PHackTeam\b
+\bT8Abot\b
+\bTeleport\b
+\bTeleportPro\b
+\bTelesoft\b
+\bTelesphoreo\b
+\bTelesphorep\b
+\bTheNomad\b
+\bThe\ Intraformant\b
+\bThumbor\b
+\bTightTwatBot\b
+\bTitan\b
+\bToata\b
+\bToweyabot\b
+\bTracemyfile\b
+\bTrendiction\b
+\bTrendictionbot\b
+\bTrue_Robot\b
+\bTuringos\b
+\bTurnitin\b
+\bTurnitinBot\b
+\bTwengaBot\b
+\bTwice\b
+\bTyphoeus\b
+\bURLy.Warning\b
+\bURLy\ Warning\b
+\bUnisterBot\b
+\bUpflow\b
+\bV-BOT\b
+\bVB\ Project\b
+\bVCI\b
+\bVacuum\b
+\bVagabondo\b
+\bVelenPublicWebCrawler\b
+\bVeriCiteCrawler\b
+\bVidibleScraper\b
+\bVirusdie\b
+\bVoidEYE\b
+\bVoil\b
+\bVoltron\b
+\bWASALive-Bot\b
+\bWBSearchBot\b
+\bWEBDAV\b
+\bWISENutbot\b
+\bWPScan\b
+\bWWW-Collector-E\b
+\bWWW-Mechanize\b
+\bWWW::Mechanize\b
+\bWWWOFFLE\b
+\bWallpapers\b
+\bWallpapers/3.0\b
+\bWallpapersHD\b
+\bWeSEE\b
+\bWebAuto\b
+\bWebBandit\b
+\bWebCollage\b
+\bWebCopier\b
+\bWebEnhancer\b
+\bWebFetch\b
+\bWebFuck\b
+\bWebGo\ IS\b
+\bWebImageCollector\b
+\bWebLeacher\b
+\bWebPix\b
+\bWebReaper\b
+\bWebSauger\b
+\bWebStripper\b
+\bWebSucker\b
+\bWebWhacker\b
+\bWebZIP\b
+\bWeb\ Auto\b
+\bWeb\ Collage\b
+\bWeb\ Enhancer\b
+\bWeb\ Fetch\b
+\bWeb\ Fuck\b
+\bWeb\ Pix\b
+\bWeb\ Sauger\b
+\bWeb\ Sucker\b
+\bWebalta\b
+\bWebmasterWorldForumBot\b
+\bWebshag\b
+\bWebsiteExtractor\b
+\bWebsiteQuester\b
+\bWebsite\ Quester\b
+\bWebster\b
+\bWhack\b
+\bWhacker\b
+\bWhatweb\b
+\bWho.is\ Bot\b
+\bWidow\b
+\bWinHTTrack\b
+\bWiseGuys\ Robot\b
+\bWonderbot\b
+\bWoobot\b
+\bWotbox\b
+\bWprecon\b
+\bXaldon\ WebSpider\b
+\bXaldon_WebSpider\b
+\bXenu\b
+\bYoudaoBot\b
+\bZade\b
+\bZauba\b
+\bZermelo\b
+\bZeus\b
+\bZitebot\b
+\bZmEu\b
+\bZoomBot\b
+\bZoominfoBot\b
+\bZumBot\b
+\bZyBorg\b
+\badscanner\b
+\barchive.org_bot\b
+\barquivo-web-crawler\b
+\barquivo.pt\b
+\bautoemailspider\b
+\bbacklink-check\b
+\bcah.io.community\b
+\bcheck1.exe\b
+\bclark-crawler\b
+\bcoccocbot\b
+\bcognitiveseo\b
+\bcom.plumanalytics\b
+\bcrawl.sogou.com\b
+\bcrawler.feedback\b
+\bcrawler4j\b
+\bdataforseo.com\b
+\bdemandbase-bot\b
+\bdomainsproject.org\b
+\beCatch\b
+\bevc-batch\b
+\bfacebookscraper\b
+\bgopher\b
+\bheritrix\b
+\binstabid\b
+\binternetVista\ monitor\b
+\bips-agent\b
+\bisitwp.com\b
+\biubenda-radar\b
+\blinkdexbot\b
+\blwp-request\b
+\blwp-trivial\b
+\bmagpie-crawler\b
+\bmeanpathbot\b
+\bmediawords\b
+\bmuhstik-scan\b
+\bnetEstate\ NE\ Crawler\b
+\boBot\b
+\bpage\ scorer\b
+\bpcBrowser\b
+\bplumanalytics\b
+\bpolaris\ version\b
+\bprobe-image-size\b
+\bripz\b
+\bs1z.ru\b
+\bsatoristudio.net\b
+\bscalaj-http\b
+\bscan.lol\b
+\bseobility\b
+\bseocompany.store\b
+\bseoscanners\b
+\bseostar\b
+\bserpstatbot\b
+\bsexsearcher\b
+\bsitechecker.pro\b
+\bsiteripz\b
+\bsogouspider\b
+\bsp_auditbot\b
+\bspyfu\b
+\bsysscan\b
+\btAkeOut\b
+\btrendiction.com\b
+\btrendiction.de\b
+\bubermetrics-technologies.com\b
+\bvoyagerx.com\b
+\bwebgains-bot\b
+\bwebmeup-crawler\b
+\bwebpros.com\b
+\bwebprosbot\b
+\bx09Mozilla\b
+\bx22Mozilla\b
+\bxpymep1.exe\b
+\bzauba.io\b
+\bzgrab\b
